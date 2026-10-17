@@ -16,34 +16,34 @@ Grab the latest build from the **[Releases](https://github.com/2KLive/GFX-Studio
 
 ## What GFX Studio does
 
-### 🏠 Home dashboard
+### Home dashboard
 Open any supported PAC and Home detects whether it is a font or a graphic and routes it to the right workspace. Recent files, quick access and update checks live here.
 
-### 🪪 Nameplates
+### Nameplates
 Edit names, social handles and championship layouts with a layer tree, live preview and per-variant control.
 
-### 🎞️ Transitions & motion
+### Transitions & motion
 Inspect frames, scrub the timeline and preserve the entrance/exit animations you need. Includes a native animation library.
 
-### 📍 Locators
+### Locators
 Build readable location cards with safe-area and grid guides.
 
-### 🏆 Match results
+### Match results
 Static font-and-foreground workflow for winner/draw screens.
 
-### 🆚 Matchups
+### Matchups
 Compose the loading match screen: competitor text, font atlas viewing/export/import, full-screen layout fixes for compatible slots, wrestler render references, and background video replacement (Bink, or MP4 via conversion).
 
-### 🔤 Font Studio
+### Font Studio
 Template-based font workspace: generate lettering from **TTF/OTF**, port donor game fonts and SYM artwork, and make precise glyph and atlas repairs.
 
-### 🖼️ Images & foregrounds
+### Images & foregrounds
 Replace artwork with PNG or DDS; PNGs are encoded to the target's original DDS format with texconv.
 
-### 🎬 GFX Converter
+### GFX Converter
 Verified Bink conversion for nameplate, locator and matchup movies, with progress, cancel and speed controls.
 
-### 📦 Safe export
+### Safe export
 **Export PAC** always writes a validated *copy* — it never overwrites the file you opened — with optional backup of previous exports.
 
 ---
